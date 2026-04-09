@@ -1,3 +1,7 @@
+# Migrated to codeberg
+
+This repository has been migrated to [codeberg](https://codeberg.org/cmeans/deluge-filefilter) and will no longer be maintained on Github.
+
 # deluge-filefilter
 
 [GitHub project](https://github.com/means2014/deluge-filefilter/)
